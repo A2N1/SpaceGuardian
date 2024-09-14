@@ -1,8 +1,2 @@
-# SpaceGuardian
-SpaceShip Game
-
-
-{
-    "java.configuration.updateBuildConfiguration": "interactive",
-    "java.compile.nullAnalysis.mode": "automatic"
-}
+# SpacePatrol
+SpacePatrol is a Game with SpaceShips and AlienShips.
