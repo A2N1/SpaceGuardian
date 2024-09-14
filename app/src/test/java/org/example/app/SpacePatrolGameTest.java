@@ -1,7 +1,7 @@
 /*
  * Test case for SpaceShip Game
  */
-package org.SpaceShipGame;
+package org.example.app;
 
 import org.junit.jupiter.api.Test;
 
