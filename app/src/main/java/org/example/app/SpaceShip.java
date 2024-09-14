@@ -1,4 +1,4 @@
-package model;
+package org.example.app;
 import java.util.UUID;
 import java.util.Random;
 

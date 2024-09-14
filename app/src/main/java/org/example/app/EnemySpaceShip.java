@@ -1,4 +1,4 @@
-package model;
+package org.example.app;
 
 public class EnemySpaceShip extends SpaceShip {
     public EnemySpaceShip(String name) {

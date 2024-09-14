@@ -1,8 +1,8 @@
-package de.SpaceGuardian.app;
+package org.example.app;
 
-import model.EnemySpaceShip;
-import model.SpaceShip;
-import model.Superpower;
+//import model.EnemySpaceShip;
+//import model.SpaceShip;
+//import model.Superpower;
 
 import java.util.Scanner;
 

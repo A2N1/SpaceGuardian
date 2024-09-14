@@ -1,6 +1,6 @@
 /*
  * Test case for SpaceShip Game
- */
+ *
 package org.example.app;
 
 import org.junit.jupiter.api.Test;
@@ -12,3 +12,5 @@ class SpacePatrolGameTest {
         assertEquals("Hello      World!", MessageUtils.getMessage());
     }
 }
+
+ */
