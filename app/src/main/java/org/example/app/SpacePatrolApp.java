@@ -2,7 +2,7 @@ package org.example.app;
 
 //import model.EnemySpaceShip;
 //import model.SpaceShip;
-//import model.Superpower;
+//import model.Superpower;	
 
 import java.util.Scanner;
 
