@@ -1,3 +1,5 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.project.sourcePaths": [
+        "SpaceGuardian/app/src/main/app/appGame"
+    ]
 }
