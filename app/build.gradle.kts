@@ -15,5 +15,13 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = "SpacePatrolApp"
+    mainClass = "SpacePatrolApp.java"
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = "src/main/java"
+        }
+    }
 }
