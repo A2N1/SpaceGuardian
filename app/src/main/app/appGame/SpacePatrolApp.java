@@ -1,4 +1,4 @@
-package app;
+package app.src.main.app.appGame.src.main;
 
 import model.EnemySpaceShip;
 import model.SpaceShip;
